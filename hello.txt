@@ -2,3 +2,4 @@ git hello version2.0
 git hello version3.0
 git hello version4.0 hot-fix
 git hello version5.0 master test
+git hello version6.0 hot-fix test
