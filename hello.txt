@@ -3,3 +3,4 @@ git hello version3.0
 git hello version4.0 hot-fix
 git hello version5.0 master test
 git hello version6.0 hot-fix test
+在远程库修改文件的内容，测试从远程库拉取代码到本地的操作；git pull 远程库地址别名 远程分支名 
